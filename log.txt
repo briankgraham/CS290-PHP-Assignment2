@@ -1,0 +1,13 @@
+Start: Wed, 11 Feb 2015 17:30:00 -0800
+End: Wed, 11 Feb 2015 11:30 -0800
+created code to create a DB, then add video elements to it as well. Also can print table, but not via Ajax, just by directing to another page right now.
+Looking into ways to display table on same page, may have found solution.
+Took One hour break.
+
+Start: Thu, 12 Feb 2015 01:00:00 -0800
+End: Thu, 12 Feb 2015 03:25:01 -0800
+ Created ability to delete/delete all.
+
+Start: Fri, 13 Feb 2015 15:00:00 -0800
+End: Fri, 13 Feb 2015 18:00:01 -0800
+Added drop down menu, filter button.
